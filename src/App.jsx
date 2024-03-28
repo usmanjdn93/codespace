@@ -30,9 +30,6 @@ const siteProps = {
   gitHub: "usmanjdn93",
   instagram: "usmanjdn",
   linkedIn: "usman-jadoon-0b0423133",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
 };
 
 const primaryColor = "#4E567E";

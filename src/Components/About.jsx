@@ -24,19 +24,18 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Software Engineer | MS(AI) in progress. Passionate about innovation and pushing the boundaries of technology. 8+ years of web development experience.  #AI #SoftwareEngineer";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Python, Php, Javascript",
+  "RESTful APIs",
+  "Docker, AWS",
+  "Artificial Intelligence (AI):",
+  "Problem-solving, Teamwork, Quick Learner",
 ];
 
 /**
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am a passionate software engineer with over 8 years of experience developing web applications. I am currently pursuing a Master of Science in Artificial Intelligence to further enhance my problem-solving skills and stay ahead of the curve in this rapidly evolving field. In my previous role at DG Group, I worked on projects such as NUDG, a mobile application that combines various on-demand services. I am skilled in a variety of programming languages and technologies, including Docker, RESTful APIs, and Laravel. My colleagues praise me for my problem-solving skills, teamwork, and ability to learn quickly.";
 
 const About = () => {
   return (
